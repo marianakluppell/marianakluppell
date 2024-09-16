@@ -1,4 +1,9 @@
 ## Hi there 👋
+me chamo, mariana!
+estudo no cep, e estou me desenvolvendo na linguagem JavaScript
+
+entre em contato comigo!
+@gomes.mariana24@escola.pr.gov.br
 
 <!--
 **marianakluppell/marianakluppell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
