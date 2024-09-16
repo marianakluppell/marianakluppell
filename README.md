@@ -2,7 +2,7 @@
 me chamo, mariana!
 estudo no cep, e estou me desenvolvendo na linguagem JavaScript
 
-entre em contato comigo!
+### entre em contato comigo!
 @gomes.mariana24@escola.pr.gov.br
 
 <!--
